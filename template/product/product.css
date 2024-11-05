@@ -1,0 +1,31 @@
+.boxproduct {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+    background-color: cadetblue;
+    margin: 20px 10px ;
+    border-radius: 5px;
+}
+
+
+img {
+    object-fit: cover;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px; 
+
+}
+
+button {
+    background-color: aqua;
+    border: none;
+
+}
+
+.hidden {
+    display: none;
+}
+
